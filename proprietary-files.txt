@@ -668,6 +668,7 @@ bin/ATFWD-daemon
 bin/netmgrd
 bin/port-bridge
 bin/radish
+bin/rild
 bin/rmt_storage
 bin/tftp_server
 etc/data/dsi_config.xml
@@ -680,9 +681,13 @@ framework/embmslibrary.jar
 framework/qti-telephony-common.jar|b6c94f544cfcbd5706b1ca8bd14e490e78c6307a
 framework/QtiTelephonyServicelibrary.jar
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+lib/libreference-ril.so
 lib/libril.so
+lib/librilutils.so
 lib/libtsext_inf.so
+lib64/libreference-ril.so
 lib64/libril.so
+lib64/librilutils.so
 lib64/libtsext_inf.so
 vendor/bin/qti
 vendor/lib/libmdmdetect.so
